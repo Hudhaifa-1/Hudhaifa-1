@@ -6,13 +6,13 @@
 
 - 🙏 I want to provide assistance through [Tabeb](https://tabeb-1.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://hudhaifa.vercel.app/](https://hudhaifa.vercel.app/)
+- 👨‍💻 Part of my projects are available at [https://hudhaifa-dev-portfolio.vercel.app/](https://hudhaifa-dev-portfolio.vercel.app/)
 
-- 💬 Ask me about Vuejs , vuetify, vite, web languages
+- 💬 Ask me about Vuejs, React, Javascript web languages
 
-- 📫 How to reach me aa0411724@gmail.com
+- 📫 How to reach me hudhaifa.muhammed.i@gmail.com
 
-- 📄 Know about my experiences [https://hudhaifa.vercel.app/](https://hudhaifa.vercel.app/)
+- 📄 Know about my experiences [https://hudhaifa-dev-portfolio.vercel.app/](https://hudhaifa-dev-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
