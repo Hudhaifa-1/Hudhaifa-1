@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hudhaifa</h1>
-<h3 align="center">Frontend developer, Web development, Mobile development, from Iraq</h3>
+<h3 align="center">Full-stack web developer, from Iraq</h3>
 
-
-- 🌱 I’m currently learning Flutter course, Kotlin course
 
 - 🙏 I want to provide assistance through [Tabeb](https://tabeb-1.vercel.app/)
 
