@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/hudhaifa-muhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hudhaifa-muhammad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21230614/hudhaifa-muhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hudhaifa muhammad" height="30" width="40" /></a>
 <a href="https://fb.com/web cave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="web cave" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bit_y_bit/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="we_byte1" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bit.y.bit/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="we_byte1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
